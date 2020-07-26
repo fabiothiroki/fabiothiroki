@@ -3,7 +3,6 @@
 📕 **Latest Blog Posts**
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Build a cool movie database using React Hooks](https://dev.to/fabiothiroki/build-a-cool-movie-database-using-react-hooks-cm2)
 - [Introdução ao Apache NiFi](https://dev.to/portugues/introducao-ao-apache-nifi-23kj)
 - [CQRS using Java and Axon - Command module](https://dev.to/fabiothiroki/cqrs-using-java-and-axon-command-module-57h5)
