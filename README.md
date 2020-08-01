@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align="right" alt="fabiothiroki's github stats" src="https://github-readme-stats.vercel.app/api?username=fabiothiroki&count_private=true&show_icons=true&hide=stars,issues,contribs" />
+
 I'm a software developer who likes to build great teams and meaningful applications.
 
 - 🌱 What I'm currently reading: [Goodreads](https://www.goodreads.com/fabiothiroki)
@@ -15,7 +17,6 @@ I'm a software developer who likes to build great teams and meaningful applicati
 - [CQRS basics and application structure](https://dev.to/fabiothiroki/cqrs-basics-and-application-structure-2ac2)
 <!-- BLOG-POST-LIST:END -->
 
-<img align="right" alt="fabiothiroki's github stats" src="https://github-readme-stats.vercel.app/api?username=fabiothiroki&count_private=true&show_icons=true&hide=stars,issues,contribs" />
 
 <!--
 **fabiothiroki/fabiothiroki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
